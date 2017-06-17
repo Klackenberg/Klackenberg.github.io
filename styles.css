@@ -1,0 +1,61 @@
+body {
+	text-align: center;
+	background: #fff0e2;
+}
+
+.small-margin {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.img-profile {
+	width: 300px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	padding-top: 10px;
+}
+
+.div-all-jobs {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 100%;
+	display: inline-block;
+}
+
+.div-job {
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 230px;
+	height: 230px;
+}
+
+.div-job1 {
+	
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 230px;
+	height: 230px;
+}
+
+a:hover {
+	color: black;
+}
+
+a:link {
+    color: blue;
+}
+
+.div-contacts {
+	background: #ffaa5b;
+	padding: 10px;
+}
+
+
