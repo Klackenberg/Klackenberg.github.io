@@ -1,11 +1,23 @@
 body {
 	text-align: center;
-	background: #fff0e2;
+	background: #969696;
 }
 
 .small-margin {
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+h3 {
+	font: verdana;
+}
+
+h1 {
+	font: verdana;
+}
+
+p {
+	font: verdana;
 }
 
 .img-circle {
