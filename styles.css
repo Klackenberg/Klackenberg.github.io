@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: #969696;
+	background: #dddddd;
 }
 
 .small-margin {
@@ -8,16 +8,8 @@ body {
 	margin-bottom: 10px;
 }
 
-h3 {
-	font: verdana;
-}
-
-h1 {
-	font: verdana;
-}
-
-p {
-	font: verdana;
+.small {
+	font-variant: small-caps;
 }
 
 .img-circle {
@@ -56,8 +48,9 @@ a:link {
 
 
 .div-contacts {
-	background: #ffaa5b;
+	background: #969696;
 	padding: 10px;
+	margin-top: 20px;
 }
 
 @media only screen and (min-width: 760px) {
